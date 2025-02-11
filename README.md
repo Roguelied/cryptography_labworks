@@ -1,3 +1,4 @@
-## Лабораторные работы по криптографии, 3 курс, 1 семестр.
-#### Базовые криптографические алгоритмы, модульная арифметика, генерация простых чисел, факторизация, проверки простоты, дискретное логарифмирование.
-#### Шифросистемы RSA, Рабина, Эльгамаля.
+Laboratory work on cryptography, 3rd year, 1st semester.
+---
+#### Basic cryptographic algorithms, modular arithmetic, galua field, prime generation, factorization, prime tests (Ferma, Solovay-Strassen, Miller-Rabin), discrete logarithm.
+#### RSA, Rabin, El-Gamal cipher systems implementations.
