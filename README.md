@@ -5,5 +5,5 @@ Laboratory work on cryptography, 3rd year, 1st semester.
 
 ---
 
-**C++ MSVC + boost::multiprecision**
+**C++ MSVC / boost::multiprecision**
 
